@@ -4,7 +4,7 @@
 #
 Name     : azure-storage-blob
 Version  : 12.3.1
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/16/8d/e33b60db82729bc21e733ba48e4e571a9834075afeb100a561fa58b4bcc7/azure-storage-blob-12.3.1.zip
 Source0  : https://files.pythonhosted.org/packages/16/8d/e33b60db82729bc21e733ba48e4e571a9834075afeb100a561fa58b4bcc7/azure-storage-blob-12.3.1.zip
 Summary  : Microsoft Azure Blob Storage Client Library for Python
